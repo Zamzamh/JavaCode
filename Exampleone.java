@@ -1,5 +1,5 @@
 //Outputs
-public class Enonymou {
+public class Exampleone {
 
     public static void main(String[] args) {
         //Arithmetic Operators
